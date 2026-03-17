@@ -2,7 +2,7 @@
 
 Welcome to my personal space on the web! This is a clean, modern, and responsive portfolio built to showcase my skills and projects.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Frontend:** HTML5, CSS(Custom Styling)
 
 ##  Key Features

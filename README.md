@@ -11,7 +11,7 @@ Welcome to my personal space on the web! This is a clean, modern, and responsive
 - **Direct CV Access:** Quick download button for my professional resume.
 
 ## Project Structure
-- `My_Html_Portfolio_Website.html` - The main structure and styling of the site.
+- `My_Personal_Portfolio_Website.html` - The main structure and styling of the site.
 - `Jerald-Jenid.pdf` - My latest professional CV.
 - `Jerald.jpg.jpeg` - Profile image.
 

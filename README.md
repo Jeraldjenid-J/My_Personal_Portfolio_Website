@@ -1,4 +1,4 @@
-#  Personal HTML Portfolio Website
+#  Personal Portfolio Website
 
 Welcome to my personal space on the web! This is a clean, modern, and responsive portfolio built to showcase my skills and projects.
 
